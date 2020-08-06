@@ -1,6 +1,6 @@
-https://pedro-donoso.github.io/calculator/
+https://pedro-donoso.github.io/proyecto_calculadora/
 
-# calculator
+# Proyecto Calculadora
  Introducción a la programación con JavaScript - Crear una Calculadora Básica con JavaScript
 evaluacion: 10
 feedback profesor: "Estimado Pedro
